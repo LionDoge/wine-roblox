@@ -1,0 +1,5 @@
+MODULE    = mf.dll
+
+C_SRCS = \
+	main.c \
+	session.c

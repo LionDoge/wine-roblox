@@ -1,0 +1,6 @@
+MODULE    = combase.dll
+IMPORTS   = advapi32 ole32
+
+C_SRCS = \
+	roapi.c \
+	string.c
